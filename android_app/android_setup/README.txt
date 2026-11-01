@@ -1,0 +1,1 @@
+This folder contains Flutter source, not a compiled APK. Run `flutter create --platforms=android --project-name aj_face_attendance .` from android_app to generate native Android files, then follow AndroidManifest_permissions.xml.txt. Flutter SDK must be installed and on PATH.

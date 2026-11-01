@@ -1,0 +1,16 @@
+**/.env
+**/.env.*
+!**/.env.example
+**/data/
+**/trainer/
+**/uploads/
+**/face_images/
+**/__pycache__/
+**/.venv/
+**/*.db
+**/*.sqlite3
+**/*.jks
+**/key.properties
+**/build/
+**/.dart_tool/
+**/android/local.properties

@@ -1,0 +1,5 @@
+Inside android/app/src/main/AndroidManifest.xml <manifest> add:
+<uses-permission android:name="android.permission.CAMERA" />
+<uses-permission android:name="android.permission.INTERNET" />
+For LOCAL HTTP ONLY, add android:usesCleartextTraffic="true" to <application>.
+For CLOUD, use HTTPS and do not enable cleartext traffic.
